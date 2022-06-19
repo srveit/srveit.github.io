@@ -1,12 +1,12 @@
 # Installation
 
-I run oauth2-server on a server running <a href="https://www.raspberrypi.com/software/">Raspberry Pi OS</a>.
+I run oauth2-server on a server running [Raspberry Pi OS](https://www.raspberrypi.com/software).
 
 ## Install Raspberry Pi OS
 
 Insert the microSD card into your computer.
 
-- Download the installer (<a href="https://www.raspberrypi.com/software/">Raspberry Pi Imager</a>).
+- Download the installer [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
 - Run the Raspberry Pi Imager.
 - For Operating System select "Raspberry Pi OS Lite (32-bit)" under "Raspberry Pi OS (other)".
 - For Storage select the microSD card.
