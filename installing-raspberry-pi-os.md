@@ -1,7 +1,3 @@
-layout: page
-title: "Install Raspberry Pi OS"
-permalink: https://srvet.github.io/installing-raspberry-pi-os
-
 # Installation
 
 I run oauth2-server on a server running [Raspberry Pi OS](https://www.raspberrypi.com/software).
