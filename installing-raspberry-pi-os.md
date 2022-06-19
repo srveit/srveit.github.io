@@ -14,6 +14,7 @@ Insert the microSD card into your computer.
 - Check "Set hostname" and enter "pi-auth".
 - Check "Enable SSH".
 - Choose "Allow public-key authentication only".
+- Enter your public key, usually found in `~/.ssh/id_rsa.pub`.
 - Check "set username and password".
 - In "username" enter "oauth".
 - Leave "Password" blank.
@@ -22,7 +23,7 @@ Insert the microSD card into your computer.
 - Enter your LAN's password.
 - Select LAN country.
 - Click "SAVE".
-- Close "Advanced options" dialog.
+- Close "Advanced options" dialog by clicking "SAVE" button.
 - Click "WRITE".
 - Click "YES" to erase and install the OS in the microSD card.
 - (You may be asked for your admin password to authorize writing the microSD card.)
